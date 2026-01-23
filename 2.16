@@ -1,0 +1,9 @@
+Requirement already satisfied: tensorflow in c:\users\user\desktop\bruno\ing. informatica\ia\ml\.venv\lib\site-packages (2.18.1)
+Collecting tensorflow-model-remediation
+  Downloading tensorflow_model_remediation-0.1.7.1-py3-none-any.whl (142 kB)
+     ---------------------------------------- 0.0/142.0 kB ? eta -:--:--     -- ------------------------------------- 10.2/142.0 kB ? eta -:--:--     ------------------------------ ------- 112.6/142.0 kB 1.3 MB/s eta 0:00:01     -------------------------------------- 142.0/142.0 kB 1.2 MB/s eta 0:00:00
+Collecting fairness-indicators
+  Downloading fairness_indicators-0.48.0-py3-none-any.whl (27 kB)
+Collecting tensorflow-model-analysis
+  Downloading tensorflow_model_analysis-0.48.0-py3-none-any.whl (1.7 MB)
+     ---------------------------------------- 0.0/1.7 MB ? eta -:--:--     ----------- ---------------------------- 0.5/1.7 MB 15.2 MB/s eta 0:00:01     ----------------------- ---------------- 1.0/1.7 MB 12.7 MB/s eta 0:00:01     ------------------------ --------------- 1.0/1.7 MB 11.0 MB/s eta 0:00:01     ------------------------ --------------- 1.0/1.7 MB 11.0 MB/s eta 0:00:01     --------------------------------- ------ 1.4/1.7 MB 6.5 MB/s eta 0:00:01     ---------------------------------------  1.7/1.7 MB 6.8 MB/s eta 0:00:01     ---------------------------------------- 1.7/1.7 MB 6.4 MB/s eta 0:00:00
